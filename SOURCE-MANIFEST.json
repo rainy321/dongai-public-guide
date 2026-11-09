@@ -1,0 +1,32 @@
+{
+  "reviewed_at_utc": "2026-11-06T10:10:56Z",
+  "sources": [
+    {
+      "public_url": "https://tongyuye.com/products/dongai/",
+      "source_file_sha256": "5fb241357f058e130b497a06ebd367bb2b94a8f7f539936802c461c94b1ff4a6",
+      "captured_at_utc": "2026-11-06T09:58:37.362302+00:00"
+    },
+    {
+      "public_url": "https://api.tongyuye.com/",
+      "source_file_sha256": "da0b768f89469f134c2c8e58850a2bf197927d5965114cb6f217718e598e8a3c",
+      "captured_at_utc": "2026-11-06T09:43:43.255796+00:00"
+    },
+    {
+      "public_url": "https://api.tongyuye.com/docs",
+      "source_file_sha256": "0b7187cf78ad583012bf0aa08d2777916d636a9e678982129322e25bf6fe738c",
+      "captured_at_utc": "2026-11-06T09:43:43.256778+00:00"
+    },
+    {
+      "public_url": "https://api.tongyuye.com/models",
+      "source_file_sha256": "e075456fbb7f0bf58d45592debf50c4fffda74b0803ad59c1ecb63b8bbd9818b",
+      "captured_at_utc": "2026-11-06T09:43:43.258373+00:00"
+    }
+  ],
+  "limitations": [
+    "根据运营方官方公开页面整理产品与接入说明。",
+    "来源摘要绑定已保存的匿名公开HTML字节与其采集时间，不代表页面今后不再变化。",
+    "官网价格说明URL来自产品页公开链接；本次未单独采集价格说明页，不列价格金额。",
+    "不保证所有公开模型对所有账户或密钥可用；接口能力、权限、价格与计费以当前服务说明和实际账户范围为准。",
+    "模型ID与API密钥示例均为明确待替换的占位符；未执行示例接口请求。"
+  ]
+}
