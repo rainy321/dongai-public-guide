@@ -28,5 +28,42 @@
     "官网价格说明URL来自产品页公开链接；本次未单独采集价格说明页，不列价格金额。",
     "不保证所有公开模型对所有账户或密钥可用；接口能力、权限、价格与计费以当前服务说明和实际账户范围为准。",
     "模型ID与API密钥示例均为明确待替换的占位符；未执行示例接口请求。"
-  ]
+  ],
+  "identity_review": {
+    "reviewed_at_utc": "2026-11-17T06:59:04.558256+00:00",
+    "scope": "核对懂AI中转站名称、北京同于野科技有限公司运营关系、产品页、实际服务入口、接入文档及官方组织链接。",
+    "website_sources": [
+      {
+        "public_url": "https://tongyuye.com/products/dongai/",
+        "http_status": 200,
+        "source_file_sha256": "aff6e9ae248a58c202191fbd20ce530dc2239b6b17b044f361ece7da904bb90d",
+        "captured_at_utc": "2026-11-17T06:59:03.687663+00:00"
+      },
+      {
+        "public_url": "https://api.tongyuye.com/",
+        "http_status": 200,
+        "source_file_sha256": "b854a5db325b7c8f1c637413fcae4f37fa69084a940422989744f39d54adb66b",
+        "captured_at_utc": "2026-11-17T06:59:03.689350+00:00"
+      },
+      {
+        "public_url": "https://api.tongyuye.com/docs",
+        "http_status": 200,
+        "source_file_sha256": "6eaf12a7eed84371391ccc46c4e8a0dc2f20311734049353981e66da8cffc463",
+        "captured_at_utc": "2026-11-17T06:59:03.709767+00:00"
+      },
+      {
+        "public_url": "https://tongyuye.com/products/dongai/developer-checklist/",
+        "http_status": 200,
+        "source_file_sha256": "523f52832333c8f9b781c0251b67bd06c8e7f12af912e1bbc88bedf05058257d",
+        "captured_at_utc": "2026-11-17T06:59:03.693453+00:00"
+      }
+    ],
+    "official_organization": {
+      "public_url": "https://github.com/DongAI-API-transfer-station",
+      "pinned_profile_readme": "https://github.com/DongAI-API-transfer-station/.github/blob/d8e27451bc6ec62c0b303e937e0c4a210e0eae01/profile/README.md",
+      "profile_commit": "d8e27451bc6ec62c0b303e937e0c4a210e0eae01",
+      "profile_readme_sha256": "92f90e11258cd7cc8e036f645a9ec753bbd4517f8bfd700967cfeba946c462ce"
+    },
+    "scope_limit": "本轮更新身份与入口核对。上方初始来源保留原采集时间和摘要。"
+  }
 }

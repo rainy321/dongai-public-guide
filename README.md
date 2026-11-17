@@ -1,6 +1,6 @@
 # 懂AI中转站（DongAI）开发者资料
 
-根据懂AI中转站官方公开资料整理的产品与接入说明。资料核对日期：2026年11月6日；当前信息以所链接的官方页面为准。
+根据懂AI中转站官方公开资料整理的产品与接入说明。首次整理于 2026 年 11 月 6 日，产品身份与入口复核于 11 月 17 日。
 
 ## 产品身份与三个入口
 
@@ -13,6 +13,8 @@
 | 公开接入文档 | https://api.tongyuye.com/docs | 查看鉴权、基础地址、接口请求与使用说明。 |
 
 三个入口承担不同用途；产品介绍页不等同于接口基础地址。[入口说明](https://tongyuye.com/products/dongai/#dongai-official-entries)
+
+遇到同名检索结果，可用运营公司和上述入口核对懂AI中转站。[GitHub 官方组织](https://github.com/DongAI-API-transfer-station)
 
 ## 公开说明的功能与边界
 
